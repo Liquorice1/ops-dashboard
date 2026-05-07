@@ -1,6 +1,6 @@
 # OpsBoard — Executive Assistant Operations Dashboard
 
-> Built by Carrie | Executive Assistant | 8 Years Experience
+> Built by Carrie-Ann Bennett | Executive Assistant & Office Manager | 8 Years Experience
 
 ---
 
@@ -29,7 +29,7 @@ A professional multi-sheet workbook built entirely in Excel:
 
 ### The Web Version (index.html)
 
-A live browser-based dashboard with the same features, built in HTML, CSS, and JavaScript. No installation needed — just open it.
+A live browser-based dashboard with the same features, built in HTML. No installation needed — just open it in any browser.
 
 ---
 
@@ -70,14 +70,14 @@ The steps I followed:
 
 ## About me
 
-I'm Carrie, an Executive Assistant based in Cape Town, South Africa with 8 years of remote EA and Office Manager experience.
+I'm Carrie-Ann, an Executive Assistant based in Cape Town, South Africa with 8 years of remote EA and Office Manager experience.
 
 I built this project because I believe the best EAs don't just *use* systems — they *build* them. I'm actively growing my Excel and digital skills because I know that in this role, the ability to organise information clearly and present it professionally is just as important as any other skill.
 
 If you're looking for an EA who takes initiative, thinks operationally, and brings structure to complexity — I'd love to connect.
 
 📍 Cape Town, South Africa
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: *coming soon*
 
 ---
 
@@ -91,4 +91,5 @@ If you're looking for an EA who takes initiative, thinks operationally, and brin
 
 ---
 
-*Built with Excel, HTML, CSS, JavaScript — and a lot of determination.* 💪
+*Built with Excel — and a lot of determination.* 💪
+
